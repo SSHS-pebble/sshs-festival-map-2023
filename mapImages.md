@@ -5,10 +5,13 @@ layout: default
 ### [부스 목록](index) | [지도 사진](mapImages)
 ---
 
-- 예지관 1층
+- 예지관 1, 2층
 
-![예지관 1층](./image/예지관%201층.png)
+![예지관 1, 2층](image/boothmap_yeji12.png)
 
-- 예지관 2층 창의인재관 2층
+- 예지관 3, 4층
+![예지관 3, 4층](image/boothmap_yeji34.png)
 
-![예지관 2층 창의인재관 2층](./image/예지관%202층%20창의인재관%202층.png)
+- 융합인재관
+
+![융합인재관](image/boothmap_yunghap.png)

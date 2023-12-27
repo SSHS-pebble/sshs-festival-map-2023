@@ -6,7 +6,7 @@ layout: default
 # Baseball Adventure
 ## 예지관 4층 복도
 
-![부스 대표 이미지](/image/Baseball%20Adventure.jpg)
+![부스 대표 이미지](../image/Baseball%20Adventure.jpg)
 
 Baseball Adventure
 서울과학고 야구부 PG에서 운영하는 다양한 피칭 게임!

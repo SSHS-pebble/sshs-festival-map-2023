@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   2023 천년제 지도는 2023년 천년제의 부스별 위치와 부스별 설명을 담고 있습니다.
   관련 문의/건의는 학생회 정보부 메일로 해주시면 감사하겠습니다.
   © 2023-2024 서울과학고등학교 학생회 정보부. All rights reserved.
-baseurl: "/sshs-festival-map-2023" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tteokgook1g.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

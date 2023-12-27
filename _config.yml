@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   관련 문의/건의는 학생회 정보부 메일로 해주시면 감사하겠습니다.
   © 2023-2024 서울과학고등학교 학생회 정보부. All rights reserved.
 baseurl: "/sshs-festival-map-2023" # the subpath of your site, e.g. /blog
-url: "https://tteokgook1g.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sshs-pebble.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima

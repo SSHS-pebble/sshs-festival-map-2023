@@ -9,15 +9,15 @@ layout: default
 - 예지관 1층
 T 모양 블럭을 얻을 수 있는 부스!
     * VR체험+천년복권
-    * [GLITCH](/booth/GLITCH)
+    * [GLITCH](./booth/GLITCH)
     * 천년오락실
     * 기후후후후훗
 
 - 예지관 2층
 L 모양 블럭을 얻을 수 있는 부스!
     * 에코백 만들기
-    * 미국 스포츠 체험
-    * [야광팔찌+양초제작](/booth/NeTix)
+    * [미국 스포츠 체험](./booth/미국스포츠%20체험)
+    * [야광팔찌+양초제작](./booth/NeTix)
     * LETTIE ARCADE
     * 연구활동 전시
     * 신문 쉼터
@@ -26,7 +26,7 @@ L 모양 블럭을 얻을 수 있는 부스!
 O 모양 블럭을 얻을 수 있는 부스!
     * 낭만고양이
     * Play with SM
-    * [삐리삐리오락실](/booth/삐리삐리오락실)
+    * [삐리삐리오락실](./booth/삐리삐리오락실)
     * 밥팅이들 밥집
     * 언어유희왕
     * 2040 서울과학고
@@ -36,11 +36,11 @@ I 모양 블럭을 얻을 수 있는 부스!
     * 인생네컷
     * 생물나라
     * 미니 방탈출
-    * [Baseball Adventure](/booth/Baseball%20Adventure)
+    * [Baseball Adventure](./booth/Baseball%20Adventure)
 
 - 예지관 5층
 I 모양 블럭을 얻을 수 있는 부스!
-    * [옥탑방](/booth/옥탑방)
+    * [옥탑방](./booth/옥탑방)
 
 - 융합인재관 2층
 S 모양 블럭을 얻을 수 있는 부스!

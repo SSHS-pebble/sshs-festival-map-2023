@@ -1,8 +1,6 @@
 ---
 layout: default
----
-
-### [부스 목록](index) | [지도 사진](mapImages)
+title: 지도 사진
 ---
 
 - 예지관 1, 2층
